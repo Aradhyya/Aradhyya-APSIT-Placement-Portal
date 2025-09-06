@@ -1,4 +1,5 @@
 # Logs
+# Minor change for test commit
 logs
 *.log
 npm-debug.log*
